@@ -798,12 +798,6 @@ footer li{
     justify-content: space-between;
 }
 
-@media screen and (max-width: 800px) {
-
-    .lugar_sub img{
-    display: none;}
-}
-
 .marcas_imagenes{
     align-items: center;
     margin-left: auto;
@@ -814,6 +808,14 @@ footer li{
 .hola{
     display: none;
 }
+
+@media screen and (max-width: 800px) {
+
+    .lugar_sub img{
+    display: none;}
+}
+
+
 
 @media screen and (max-width: 800px) {
 
@@ -831,4 +833,7 @@ footer li{
     .hola2{
         display: none;
     }
+
 }
+
+
