@@ -803,3 +803,35 @@ footer li{
     .lugar_sub img{
     display: none;}
 }
+
+.marcas_imagenes{
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+}
+
+.hola{
+    display: none;
+}
+
+@media screen and (max-width: 800px) {
+
+    .marcas_imagenes{
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+}
+
+.hola{
+    display: block;
+}
+
+.hola2{
+    display: none;
+}
+
+}
+
+
