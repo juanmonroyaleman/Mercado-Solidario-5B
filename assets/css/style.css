@@ -822,16 +822,13 @@ footer li{
     margin-left: auto;
     margin-right: auto;
     width: 300px;
+    }   
+
+    .hola{
+        display: block;
+    }
+
+    .hola2{
+        display: none;
+    }
 }
-
-.hola{
-    display: block;
-}
-
-.hola2{
-    display: none;
-}
-
-}
-
-
